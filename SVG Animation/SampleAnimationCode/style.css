@@ -1,0 +1,84 @@
+.svg-animation {
+    width: 500px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+    padding: 24px;
+    margin: 0 auto;
+    border-radius: 20%;
+    height: 500px;
+}
+
+.svg-animation svg {
+    margin-top: 30%;
+    width: 100%;
+}
+
+#BGELEMENT {
+    animation: changeColor 3s infinite alternate;
+}
+
+@keyframes changeColor {
+    0% {
+        fill: red;
+    }
+    100% {
+        fill: blue;
+    }
+}
+
+#Ball {
+    animation: bounce 1.4s infinite ease-out alternate;
+}
+
+@keyframes bounce {
+    0% {
+        transform: translateY(25px);
+    }
+    100% {
+        transform: translateY(-50px);
+    }
+}
+
+#Shoe {
+    animation: rotate 1.5s infinite alternate;
+    transform-origin: right;
+    transform-box: fill-box;
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate(10deg);
+    }
+    70% {
+        transform: rotate(-5deg);
+    }
+}
+
+#Rhand {
+    animation: rotateHand 2s infinite alternate;
+    transform-origin: right;
+    transform-box: fill-box;
+}
+
+#Lhand {
+    animation: rotateLHand 2s infinite alternate;
+    transform-origin: top left;
+    transform-box: fill-box;
+}
+
+@keyframes rotateHand {
+    0% {
+        transform: rotate(-5deg);
+    }
+    70% {
+        transform: rotate(10deg);
+    }
+}
+
+@keyframes rotateLHand {
+    0% {
+        transform: rotate(5deg);
+    }
+    50% {
+        transform: rotate(0deg);
+    }
+}
