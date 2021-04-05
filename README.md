@@ -1,15 +1,4 @@
-# Index
-
-
-- SVG Animation
-- Parallex effects
-- Anime.js
-
-<hr/>
-
-
-# Web development resources
-
+## Web development resources
 
 #### Sites
 
@@ -24,6 +13,26 @@
  * [W3Schools](https://www.w3schools.com/) - Tutorials on HTML, CSS, JavaScript and more.
  * [Scrimba](https://scrimba.com/) - Provides Web Development Courses with a unique feature of live interaction with the instructor's code.
  * [FrontendMasters](https://frontendmasters.com/) - In-depth and advanced video tutorials on Frontend Devlopment from experts in the industry.
+
+## Git practises
+
+1. https://medium.com/@immily/sampe-of-git-workflow-for-small-team-6d5836b9b7ce
+2. https://deepsource.io/blog/git-best-practices/
+
+```
+git checkout -b your-awesome-feature develop
+
+<work on that branch>
+git add *
+git commit -m 'a meaningful commit'
+git push
+
+<once the feature is complete make a pull request (pr)>
+
+someone will review the code and merge it to the master branch
+
+NEVER DIRECTLY MERGE TO MASTER
+```
 
 
 ###  My got-to resources for web dev (Personal preference) :kissing_smiling_eyes:
