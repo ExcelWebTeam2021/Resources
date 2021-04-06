@@ -5,6 +5,7 @@
 1. Understanding SVG  https://www.youtube.com/watch?v=emFMHH2Bfvo
 2. How To Animate SVG With CSS  https://www.youtube.com/watch?v=KLU4PUd7N14
 3. Make Awesome SVG Animations with CSS https://www.youtube.com/watch?v=emFMHH2Bfvo
+4. Animate SVG image in CSS  https://www.youtube.com/watch?v=3ZEwMHWdhYA&list=PLFSEJJUB9G0MuThLyms5ZjZ3Eyk0-RwjI&index=4
 
 
 ### Codepen
