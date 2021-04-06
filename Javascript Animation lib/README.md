@@ -1,5 +1,10 @@
+#Javascript Animation library
 
-## Anime.js
+1. Anime.js
+2. Three.js (3D Effects)
+
+
+### Anime.js
 
 #### Documentation
 
@@ -50,3 +55,27 @@ let animation = anime({
   direction: 'alternate'  (3 direction parameter : normal, reverse, and alternate. )
 });  
 ```
+
+
+
+
+
+
+
+### Three.js
+
+
+#### Documentation and videso
+
+1. https://www.youtube.com/watch?v=YK1Sw_hnm58
+2. https://www.youtube.com/watch?v=pUgWfqWZWmM
+
+
+
+
+#### Codepen
+
+1.https://codepen.io/prisoner849/pen/PoWGOMG
+2. Earth and moon https://codepen.io/RahulSharma111/pen/abpWgGZ?editors=1010
+
+
