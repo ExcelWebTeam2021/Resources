@@ -1,5 +1,30 @@
 # SVG Animations
 
+
+### Steps (from what I understood)
+
+S1 : Pick an image from undraw (or any other site)  
+
+S2 : Open the in figma and ungroup the vectors
+
+S3 : Group related vectors together (Ctrl + G) and rename them accordingly (This will create a <g id='blah'>...</g> in the svg)
+
+S4 : Export the final image as SVG (with id attribute selected from the ... menu.)
+
+S5 : Using css or anime.js animate individual elements
+
+##### Optimazation of SVG
+
+Before adding the svg from figma to html page, compress it using https://jakearchibald.github.io/svgomg/
+
+##### jpg to svg convertor
+
+https://codepen.io/shshaw/full/LVKEdv
+
+<br />
+
+## Resources
+
 ### Videos
 
 1. Understanding SVG  https://www.youtube.com/watch?v=emFMHH2Bfvo
@@ -23,17 +48,6 @@
 3. https://www.smashingmagazine.com/2019/05/svg-design-tools-practical-guide/
 
 
-### Steps (from what I understood)
-
-S1 : Pick an image from undraw (or any other site)  
-
-S2 : Open the in figma and ungroup the vectors
-
-S3 : Group related vectors together (Ctrl + G) and rename them accordingly (This will create a <g id='blah'>...</g> in the svg)
-
-S4 : Export the final image as SVG (with id attribute selected from the ... menu.)
-
-S5 : Using css or anime.js animate individual elements
 
 
 
