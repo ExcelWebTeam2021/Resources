@@ -4,13 +4,18 @@
 #### Documentation
 
 1.Official documentation  https://animejs.com/documentation/#cssSelector
+
 2. https://www.sitepoint.com/get-started-anime-js/
+
 3. Medium article https://medium.com/@ajmeyghani/creating-javascript-animations-with-anime-js-f2b14716cdc6
+
+4. https://www.youtube.com/watch?v=apaQe1tDA4M
 
 
 #### Codepen
 
 1.Hand written SVG text animation https://codepen.io/mellis84/pen/JpVZNw2
+
 2.Back2School SVG Animation w/ anime.js https://codepen.io/Yasio/pen/wEWyLE
 
 
@@ -28,7 +33,7 @@ let myAnimation = anime({
 There are several kinds of properties used to describe the animation. They are grouped into four distinct categories:
 
  - Targets – this includes a reference to the element(s) we want to animate. It could be a CSS selector (div, #square, .rectangle), DOM node or js object. 
- - Animatable Properties – height, opacity, color, translateX etc
+ - Animatable Properties – height, opacity, color, translate, rotate, scale, skew, opacity, etc
  - Property Parameters –  duration, delay, easing, etc.
  - Animation Parameters – this includes animation-related parameters like direction, loop, etc.
 
