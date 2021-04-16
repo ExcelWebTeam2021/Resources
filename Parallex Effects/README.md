@@ -17,6 +17,7 @@
 1. https://www.youtube.com/watch?v=c2f6M58UbL8&list=PLGOUqNBNghxOHskd4FjZgBqvyYVHFis3I&ab_channel=DaftCreation
 2. https://www.youtube.com/watch?v=TUD9999TbS0&t=281s&ab_channel=TrueCoder
 3. https://www.youtube.com/watch?v=aWJgIETz-Kk&ab_channel=DesignCourse
+4. https://www.youtube.com/watch?v=0PaA82YzNOE&ab_channel=DevEd
 
 ## Codepen
 
